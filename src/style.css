@@ -1,0 +1,64 @@
+	.time-frame {
+		background-color: hsl(0, 100%, 50%);
+		color: rgb(0, 0, 0);
+		width: auto;
+		min-width: 160px;
+		font-family: Arial;
+		margin:0 auto;
+		display:table;
+		padding:10px 10px;
+		
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+	}
+
+	.time-frame > div {
+		width: 100%;
+		text-align: center;
+	}
+
+	#tarih-bolumu {
+		font-size: 18px;
+		color:#000000;
+	}
+	#saat-bolumu {
+		font-size: 32px;
+		line-height: 30px;
+		margin-top:5px;
+	}
+
+
+	@import 'https://fonts.googleapis.com/css?family=Roboto+Mono:100';
+	html,
+	body {
+	  font-family: 'Roboto Mono', monospace;
+	  background: #212121;
+	  height: 100%;
+	}
+	.container {
+	  height: 100%;
+	  width: 100%;
+	  justify-content: center;
+	  align-items: center;
+	  display: flex;
+	}
+	.text {
+	  font-weight: 100;
+	  font-size: 40px;
+	  color: #ff0000;
+	}
+	.dud {
+	  color: #757575;
+	
+	}
+	.yazi {
+		text-shadow:1px 1px 15px rgb(236, 63, 63);
+	color:rgb(255, 0, 0);
+	  text-align: center;
+	   font-family: Roboto;
+	font-size:60px;
+    }
+	
+	
+	
