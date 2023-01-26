@@ -66,7 +66,7 @@ const phrases = [
 'Cehennem Melekleri Loading...',
 'Cehennem Melekleri Loaded!',
 'Kendi ateşimle yanarım, kimseye biat etmem!',
-'Yikilmaz Tahtim!'];
+'Y1k1lmaz Taht1m!'];
 
 const el = document.querySelector('.text');
 const fx = new TextScramble(el);
