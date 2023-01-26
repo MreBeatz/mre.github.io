@@ -63,10 +63,10 @@ class TextScramble {
 // ——————————————————————————————————————————————————
 
 const phrases = [
-'Mre Loading..,',
-'Mre Loaded!',
-'Willson Family Loaded!',
-'C#, JavaScript, C++'];
+'Cehennem Melekleri Loading...',
+'Cehennem Melekleri Loaded!',
+'Kendi ateşimle yanarım, kimseye biat etmem!',
+'Yikilmaz Tahtim!'];
 
 const el = document.querySelector('.text');
 const fx = new TextScramble(el);
